@@ -1,9 +1,10 @@
 # 📊 Sales Data Analysis & Decision Support System
 
-![Excel]
-![Access]
-![Dashboard]
-![Data Analysis]
+![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Access](https://img.shields.io/badge/Microsoft-Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Data-Dashboard-blue?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-success?style=for-the-badge)
+
 ---
 
 ## 📖 Overview
