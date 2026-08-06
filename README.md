@@ -125,7 +125,7 @@ sales-data-analysis-dss
 │   └── ProiectSSDExcel.xlsx
 │
 ├── documentation
-│   └── Project_Report.pdf
+│   └── Proiect_SSD.pdf
 │
 ├── screenshots
 │   ├── dashboard.png
