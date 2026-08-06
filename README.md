@@ -108,7 +108,7 @@ The project follows the complete analytical process:
 
 # 📦 Products Table
 
-![Products](screenshots/produse.png)
+![Products](screenshots/Products.png)
 
 ---
 
