@@ -88,7 +88,6 @@ The project follows the complete analytical process:
 
 # 📊 Dashboard Preview
 
-> Replace the image below with your Dashboard screenshot.
 
 ![Dashboard](screenshots/dashboard.png)
 
@@ -96,9 +95,8 @@ The project follows the complete analytical process:
 
 # 🔗 Database Relationships
 
-> Replace the image below with your Access Relationships screenshot.
 
-![Relationships](screenshots/relationships.png)
+![Relationships](screenshots/Relationships.png)
 
 ---
 
